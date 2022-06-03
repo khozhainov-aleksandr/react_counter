@@ -1,0 +1,2 @@
+.counter{display:flex;flex-direction:column;justify-content:space-evenly;margin:30px 60px;height:250px;background-color:#fafafa}.counter__title{text-align:center;font-size:32px;font-weight:700}.counter__buttonWrapper{position:relative;bottom:0;display:flex;justify-content:center}.button{margin-right:20px;border-radius:0;font-weight:700}.button:nth-last-child(){margin-right:0}
+/*# sourceMappingURL=main.aaf0e14d.chunk.css.map */
